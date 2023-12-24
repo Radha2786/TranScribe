@@ -1,2 +1,2 @@
 ﻿# TranScribe (An expense tracker application)
- A transaction-track-app build with Node js and React
+ A transaction-track-app built with Node js and React
